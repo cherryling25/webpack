@@ -11,4 +11,4 @@ var $=require("jquery");
 
 
 document.write(fnstr('<div>you like me</div>'));
-$("div").html("jdfjiea jnvidjfla");
+$("div").html("第二次修改");

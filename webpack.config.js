@@ -12,5 +12,8 @@ module.exports={
                 loader:'style-loader!css-loader'
             }
         ]
+    },
+    devServer:{
+        port:8082
     }
 }

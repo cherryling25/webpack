@@ -15,7 +15,7 @@
   "main": "show.js",
   "scripts": {
     "start":"webpack-dev-server --entry ./src/js/show.js --output-filename ./dist/main.js",
-    "build": "webpack"
+    "build": "webpack --watch"
   },
   "author": "Users",
   "license": "ISC"
